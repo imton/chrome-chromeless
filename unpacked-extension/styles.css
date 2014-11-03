@@ -85,7 +85,7 @@ input, .buttons {
 }
 
 .webview-navigated input:focus, .webview-navigated input:hover {
-    opacity: 0.8;
+    opacity: 1.0;
 }
 
 webview {
